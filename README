@@ -205,3 +205,7 @@ To use LinphoneMediaEngine, you need to perform the following additional steps:
   * In the libjingle.scons file, add the following line into the "srcs = [ ..."
     section of the "libjingle" Library.
       "session/phone/linphonemediaengine.cc",
+
+
+
+tip:仔细研究libjingle.scons
